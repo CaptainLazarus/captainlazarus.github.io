@@ -1,5 +1,5 @@
 Code for my website
 Go to
-anchitsh.github.io
+https://anchitsh.github.io/
 or 
 www.anchitsharma.com
